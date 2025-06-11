@@ -46,14 +46,7 @@
 
 ### 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/WA-TLE/dyoj-backend-microservise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WA-TLE&repo=dyoj-backend-microservise&theme=tokyonight" alt="dyoj-backend-microservise" />
-  </a>
-  <a href="https://github.com/WA-TLE/dy-api-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WA-TLE&repo=dy-api-backend&theme=tokyonight" alt="dy-api-backend" />
-  </a>
-</div>
+
 
 
 <div align="center">
